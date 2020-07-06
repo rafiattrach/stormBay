@@ -8,6 +8,7 @@ build
 *.war
 *.ear
 
+
 #################
 # Eclipse .gitignore
 # Source: https://github.com/github/gitignore/blob/master/Global/Eclipse.gitignore
@@ -25,7 +26,7 @@ local.properties
 .recommenders
 
 # Eclipse Core
-#.project
+.project
 
 # External tool builders
 .externalToolBuilders/
@@ -40,7 +41,7 @@ local.properties
 .cproject
 
 # JDT-specific (Eclipse Java Development Tools)
-#.classpath
+.classpath
 
 # Java annotation processor (APT)
 .factorypath
